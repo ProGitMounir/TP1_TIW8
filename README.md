@@ -9,5 +9,26 @@
 | - tsconfig.json
 | - .gitignore|`
 
-Pour run on tape:  ` yarn start ` 
+Pour run on tape:  
+`   cd Serveur/src/ 
+    yarn start ` 
+
+## Architecture du Client:
+`| - dist
+| - public
+| - src
+| | - assets
+| | - components
+|   | - component.css
+|   | - Header.css
+|   | - Content.css
+|   | - Footer.css
+| - 
+| - ...
+| - 
+| - .gitignore|`
+
+Pour run on tape:  
+`   cd Client/ 
+    npm run dev ` 
     
