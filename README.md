@@ -11,6 +11,7 @@
 
 Pour run on tape:  
 `   cd Serveur/src/ 
+    yarn install
     yarn start ` 
 
 ## Architecture du Client:
@@ -30,5 +31,7 @@ Pour run on tape:
 
 Pour run on tape:  
 `   cd Client/ 
+    npm install
+    yarn build
     npm run dev ` 
     
